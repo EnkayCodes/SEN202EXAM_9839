@@ -44,7 +44,7 @@ This system provides:
 2. Create Virtual Environment
     ```python -m venv nkechi_sen202_env```
 3. Activate virtual environment
-    ```nkechi_sen202_env/Scripts/activate.bat```
+    ```nkechi_sen202_env\Scripts\activate.bat```
 4. Install requiremts
     ```pip install -r requirements.txt```
 5. Create a django project
@@ -60,7 +60,20 @@ This system provides:
     - ```python manage.py migrate```
     - ```python manage.py runserver```
 
-
+## Views for Address model
 ![View1 displaying the Address models](view1.png)
+![View1 displaying the Address models](address1.png)
+![View1 displaying the Address models](address2.png)
+![View1 displaying the Address models](address3.png)
+
+## Views for Interns Models
 ![View2 displaying the Interns models](view2.png)
+![View2 displaying the Interns models](intern1.png)
+![View2 displaying the Interns models](intern2.png)
+![View2 displaying the Interns models](intern3.png)
+
+## Views for Managers Models
 ![View1 displaying the Managers models](view3.png)
+![View1 displaying the Managers models](manager1.png)
+![View1 displaying the Managers models](manager2.png)
+![View1 displaying the Managers models](manager3.png)
