@@ -21,7 +21,7 @@ This system provides:
 - Django Admin Interface
 
 ## 📂 Project Structure
-**I answered Question1, Question2, Question5**
+**I answered Question1, Question2, Question3**
 
 ## 👨‍💻 Author Information
 
